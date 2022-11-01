@@ -1,5 +1,5 @@
 # myfirstwebpage
-Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End eğitiminde oluşturduğumuz ikinci ödev. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repository, [Kodluyoruz](https://kodluyoruz.org) Front-End eğitiminde HTML ile oluşturduğumuz sitemizi içermektedir. İçerisinde bir adet README dosyası, bir adet index.html ve images dosyasını barındırmaktadır.
 
 ## Installation
 
